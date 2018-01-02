@@ -1,0 +1,2 @@
+[build_requires]
+bazel_installer/0.7.0@bincrafters/stable
